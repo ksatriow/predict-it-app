@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PredictIt</string>
+    <string name="icon">logo</string>
 </resources>
